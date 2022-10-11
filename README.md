@@ -1,6 +1,5 @@
 <h1 align="center">:wave: Hi there, I am Kartheek</h1>
-<h6> :man_technologist: I am currently working on Desktop-tic-tac-toe and Hedwig </h6>
-<h6> :handshake: I am looking to collaborate for Hedwig </h6>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikartheekb&label=Profile%20views&color=0e75b6&style=flat" alt="saikartheekb" /> </p>
