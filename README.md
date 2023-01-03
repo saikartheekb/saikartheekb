@@ -31,7 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikartheekb&show_icons=true&locale=en" alt="saikartheekb" /></p>
 -->
-
-## Currently Listening
-
-[![Spotify]](https://open.spotify.com/user/1ce96qa16abvcxbf7n4ju7tr5)
